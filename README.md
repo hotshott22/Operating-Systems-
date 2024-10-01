@@ -1,3 +1,4 @@
 Operating Systems <br/>
-Mythili Vutukuru /n
-Department of Computer Science and Engineering, IIT Bombay
+Mythili Vutukuru  <br/>
+Department of Computer Science and Engineering <br/>
+IIT Bombay  <br/> <br/>
